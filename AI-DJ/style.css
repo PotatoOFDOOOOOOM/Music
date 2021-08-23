@@ -1,0 +1,38 @@
+span
+{
+  color:white;
+  word-wrap: break-word;
+}
+.heading
+{
+    font-size:23px;
+    width:100%;
+    text-align:center;
+    margin-top:0px;
+}
+.div_speed
+{
+    float:left;
+}
+.img1
+{
+    width:200px;
+    border-radius:100px;
+}
+.div_volume
+{
+    float:right;
+}
+.img2
+{
+    width:200px;
+    border-radius:100px;
+}
+.play_button
+{
+    width:100px;
+}
+#speed_button
+{
+    background-size:cover;
+}
